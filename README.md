@@ -2,4 +2,4 @@
 
 This is a program you can use to optimize windows 10.
 
-Test
+Version: 1.1.0-beta
